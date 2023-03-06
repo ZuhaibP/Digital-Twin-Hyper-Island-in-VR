@@ -3,6 +3,6 @@ CompatibilityAssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: starter-environment_default_99c9720ab356a0642a771bea13969a05
-      Hash: 26d46800d7d3ac977a301319d4ae808a
-      CRC: 3359495765
+      Hash: e168790897aa9d0b28129f37510170fa
+      CRC: 4038800058
       Dependencies: {}
